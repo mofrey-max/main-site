@@ -1,0 +1,27 @@
+
+
+
+
+
+
+@media(max-width:1199px){
+    
+}
+
+@media(max-width:991px){
+    
+}
+
+@media(max-width:767px){
+  .navbar-expand-md .navbar-nav .nav-link:hover  {
+    background: #4ac1f5 !important;
+  }
+}
+
+@media(max-width:575px){
+    
+}
+
+@media(max-width:480px){
+    
+}

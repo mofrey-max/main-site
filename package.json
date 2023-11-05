@@ -1,0 +1,41 @@
+{
+  "name": "treyafatech.com",
+  "version": "1.0.0",
+  "description": "Best software development company in Adamawa State , web designer, mobile app developer, digital marketer in Adamawa, IoT Development Services and automation in Nigeria.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofrey-max/treyafatech.git"
+  },
+  "keywords": [
+    "IoT",
+    "Software",
+    "Development",
+    "Services",
+    "mobile",
+    "app",
+    "automation"
+  ],
+  "author": "Mr. Manunyi Godfrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mofrey-max/treyafatech/issues"
+  },
+  "homepage": "https://github.com/mofrey-max/treyafatech#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "file-saver": "^2.0.2",
+    "fs-extra": "^8.1.0",
+    "nodemon": "^2.0.2",
+    "nodemailer": "^6.1.1",
+    "request": "^2.88.0",
+    "rtcmulticonnection-server": "^1.3.1",
+    "save-file": "^2.3.1",
+    "uuid": "^3.3.3",
+    "express": "^4.17.1"
+  }
+}
